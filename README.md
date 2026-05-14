@@ -44,11 +44,13 @@ Financial markets are non-stationary, volatile, and influenced by unpredictable 
 | **Main Analysis Notebook** | [![Kaggle](https://img.shields.io/badge/Kaggle-ARIMA_Prediction-20BEFF?logo=kaggle)](https://www.kaggle.com/code/mrrogueknight/arima-based-stock-price-prediction-and-performance) |
 | **Interactive Dashboard** | [![Kaggle](https://img.shields.io/badge/Kaggle-Performance_Dashboard-20BEFF?logo=kaggle)](https://www.kaggle.com/code/mrrogueknight/arima-stock-forecasting-performance-dashboard) |
 | **Full Project Repository** | [![GitHub](https://img.shields.io/badge/GitHub-Complete_Project-181717?logo=github)](https://github.com/MrRogueKnight/arima-stock-forecasting-and-performance-evaluation) |
+| **Detailed Project Report (PDF)** | [![Report](https://img.shields.io/badge/PDF-Detailed_Report-e74c3c?logo=adobeacrobatreader)](https://github.com/MrRogueKnight/arima-stock-forecasting-and-performance-evaluation/blob/rogue/Report%20on%20Evaluating%20the%20Predictive%20Power%20of%20Time%20Series%20Models%20for%20Stock%20Price%20Forecasting%20and%20Trading%20Performance.pdf) |
 
 **Navigation Guide:**
 - **Main Analysis Notebook** → Complete ARIMA/LSTM modeling, backtesting, and evaluation
 - **Interactive Dashboard** → Visual dashboard loading outputs from the main notebook
 - **GitHub Repository** → Full source code, PDF report, and documentation
+- **Detailed Project Report (PDF)** → Comprehensive 5,000+ word academic report
 ---
 ## 📊 Data & Setup
 
