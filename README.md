@@ -37,7 +37,19 @@ Financial markets are non-stationary, volatile, and influenced by unpredictable 
 **Stocks:** Oil India, Quick Heal, Jindal Drilling, ICICI Bank, Tata Steel, Sun Pharma
 
 ---
+## 📂 Repository & Notebook Links
 
+| Component | Link |
+|:----------|:-----|
+| **Main Analysis Notebook** | [![Kaggle](https://img.shields.io/badge/Kaggle-ARIMA_Prediction-20BEFF?logo=kaggle)](https://www.kaggle.com/code/mrrogueknight/arima-based-stock-price-prediction-and-performance) |
+| **Interactive Dashboard** | [![Kaggle](https://img.shields.io/badge/Kaggle-Performance_Dashboard-20BEFF?logo=kaggle)](https://www.kaggle.com/code/mrrogueknight/arima-stock-forecasting-performance-dashboard) |
+| **Full Project Repository** | [![GitHub](https://img.shields.io/badge/GitHub-Complete_Project-181717?logo=github)](https://github.com/MrRogueKnight/arima-stock-forecasting-and-performance-evaluation) |
+
+**Navigation Guide:**
+- **Main Analysis Notebook** → Complete ARIMA/LSTM modeling, backtesting, and evaluation
+- **Interactive Dashboard** → Visual dashboard loading outputs from the main notebook
+- **GitHub Repository** → Full source code, PDF report, and documentation
+---
 ## 📊 Data & Setup
 
 ### Stock Selection (Sector-Diversified)
